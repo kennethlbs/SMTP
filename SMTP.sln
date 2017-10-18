@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Smtp", "Smtp\SMTP.vcxproj", "{93E01B35-F965-4651-A9A6-CBAC34E16B86}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmtpSslTls", "SmtpSslTls\CSmtp.vcxproj", "{567388CF-8BEC-4335-95D9-240F39622EB2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmtpPostman", "SmtpPostman\Postman.vcxproj", "{2671BB44-F2DE-4D2F-9D73-24BAB6EEF550}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93E01B35-F965-4651-A9A6-CBAC34E16B86}.Debug|x64.ActiveCfg = Debug|x64
+		{93E01B35-F965-4651-A9A6-CBAC34E16B86}.Debug|x64.Build.0 = Debug|x64
+		{93E01B35-F965-4651-A9A6-CBAC34E16B86}.Debug|x86.ActiveCfg = Debug|Win32
+		{93E01B35-F965-4651-A9A6-CBAC34E16B86}.Debug|x86.Build.0 = Debug|Win32
+		{93E01B35-F965-4651-A9A6-CBAC34E16B86}.Release|x64.ActiveCfg = Release|x64
+		{93E01B35-F965-4651-A9A6-CBAC34E16B86}.Release|x64.Build.0 = Release|x64
+		{93E01B35-F965-4651-A9A6-CBAC34E16B86}.Release|x86.ActiveCfg = Release|Win32
+		{93E01B35-F965-4651-A9A6-CBAC34E16B86}.Release|x86.Build.0 = Release|Win32
+		{567388CF-8BEC-4335-95D9-240F39622EB2}.Debug|x64.ActiveCfg = Debug|Win32
+		{567388CF-8BEC-4335-95D9-240F39622EB2}.Debug|x86.ActiveCfg = Debug|Win32
+		{567388CF-8BEC-4335-95D9-240F39622EB2}.Debug|x86.Build.0 = Debug|Win32
+		{567388CF-8BEC-4335-95D9-240F39622EB2}.Release|x64.ActiveCfg = Release|Win32
+		{567388CF-8BEC-4335-95D9-240F39622EB2}.Release|x86.ActiveCfg = Release|Win32
+		{567388CF-8BEC-4335-95D9-240F39622EB2}.Release|x86.Build.0 = Release|Win32
+		{2671BB44-F2DE-4D2F-9D73-24BAB6EEF550}.Debug|x64.ActiveCfg = Debug|x64
+		{2671BB44-F2DE-4D2F-9D73-24BAB6EEF550}.Debug|x64.Build.0 = Debug|x64
+		{2671BB44-F2DE-4D2F-9D73-24BAB6EEF550}.Debug|x86.ActiveCfg = Debug|Win32
+		{2671BB44-F2DE-4D2F-9D73-24BAB6EEF550}.Debug|x86.Build.0 = Debug|Win32
+		{2671BB44-F2DE-4D2F-9D73-24BAB6EEF550}.Release|x64.ActiveCfg = Release|x64
+		{2671BB44-F2DE-4D2F-9D73-24BAB6EEF550}.Release|x64.Build.0 = Release|x64
+		{2671BB44-F2DE-4D2F-9D73-24BAB6EEF550}.Release|x86.ActiveCfg = Release|Win32
+		{2671BB44-F2DE-4D2F-9D73-24BAB6EEF550}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
